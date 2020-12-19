@@ -102,7 +102,7 @@ def totalReward():
         
     
     
-    return ('In {} game sessions, you won a total of ${}.'.format(count,total))
+    return ('In %d game sessions, you won a total of $%d.'%(count,total))
 
-print(totalReward())#this runs the entire game for the black jack
-
+Result=totalReward()#this runs the entire game for the black jack
+print(Result)
