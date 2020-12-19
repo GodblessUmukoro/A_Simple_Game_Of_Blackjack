@@ -15,6 +15,8 @@ Rules for the game are as follows.
 5.Player can place his or her bet amount for each game session.
 
 6.All available betting positions and rewarding prices are as follows:
+	
+	
 	*Position mean the number on the card in this case*
 >
 > Even position ----- rewarding prize is 2x (sum of the two
