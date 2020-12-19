@@ -1,8 +1,8 @@
 ***A GAME OF BLACK JACK***
 
-This is a simple black jack game where the player pick two cards ranging 1-13. The amount of price  won is based on the rules written below. The player should be able to play multiple sessions without quitting the game.
+This is a simple game of black jack where the player picks two cards ranging 1-13. The amount of price won is based on the rules written below. The player should be able to play multiple sessions without quitting the game.
 
-Rules for the game.
+Rules for the game are as follows.
 
 1.Initial cash for this game is specified by player.
 
@@ -15,6 +15,8 @@ Rules for the game.
 5.Player can place his or her bet amount for each game session.
 
 6.All available betting positions and rewarding prices are as follows:
+	
+	
 	*Position mean the number on the card in this case*
 >
 > Even position ----- rewarding prize is 2x (sum of the two
